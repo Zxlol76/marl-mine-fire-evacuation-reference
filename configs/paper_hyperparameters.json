@@ -1,0 +1,17 @@
+{
+  "_note": "Hyperparameter values reported in the associated paper.",
+  "learning_rate": 0.0003,
+  "discount_factor": 0.9997,
+  "gae_lambda": 0.97,
+  "ppo_clip_epsilon": 0.2,
+  "entropy_coefficient": 0.08,
+  "max_gradient_norm": 0.8,
+  "ppo_epochs": 3,
+  "batch_size": 1024,
+  "rollout_steps_per_update": 4096,
+  "parallel_environments": 8,
+  "number_of_agents": 10,
+  "maximum_episode_steps": 3600,
+  "mpnn_layers": 2,
+  "mpnn_hidden_dimension": 64
+}

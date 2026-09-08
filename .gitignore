@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+*.pth
+*.pt
+events.out.tfevents.*
+Machine-Learning-Based Intelligent Decision-Making for Mine Fire Evacuation/
+Scenario Simulation of Dynamic Smoke Spread in Mine Fires and Machine-Learning-Based Intelligent Decision-Making for Evacuation Routes/
